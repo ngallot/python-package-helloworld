@@ -8,6 +8,6 @@ setuptools.setup(
     description='A minimal python package',
     packages=setuptools.find_packages(),
     install_requires=[
-        "pydantic==0.32.2"
+        "pydantic==1.6.2"
     ]
 )
